@@ -1,6 +1,6 @@
 # AEH-Cloner
 
-⚡😙A Random , Number And Uid Cloneing Tool 😺
+⚡😙A Random , Number And Uid Cloneing Tool 😺⚡
 
 # Author : Zubair Sami:-)
 
